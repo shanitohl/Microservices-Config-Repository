@@ -112,7 +112,7 @@ Routes:
         DownstreamPathTemplate: /api/PoliciesSearch
         DownstreamScheme: http
         UpstreamPathTemplate: /api/PoliciesSearch
-        ServiceName: Microservices.Demo.PolicySearch.API
+        ServiceName: Microservices.Demo.Report.API
         UpstreamHttpMethod: 
             - Get
         AuthenticationOptions:
